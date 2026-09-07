@@ -2,8 +2,8 @@ import { Button } from "@material-ui/core";
 import { fontSize } from "@mui/system";
 import React from "react";
 
-const date1 = "6 Sep - 7 Sep 2025";
-const date2 = "13 Sep - 14 Sep 2025";
+const date1 = "12 Sep - 13 Sep 2026";
+const date2 = "19 Sep - 20 Sep 2026";
 
 const LandingPage: React.FC = () => {
   return (

@@ -1,16 +1,16 @@
 {
 
     "0":{
-        "name":"Amit Kumar Ghosh",
-        "image":"images/mentor_dsa.jpg",
-        "label":"Senior Vice President & Software Engineer at Coding Thinker",
-        "details":"Amit Kumar Ghosh as a software developer with a wealth of experience, bring a unique combination of technical acumen and a passion for mentorship to his role. With 6 years of experience under his belt, He has honed skills in C/C++, Java, Python, SQL, C#, JavaScript, React etc and has a proven track record of delivering high-quality, scalable software solutions and core Computer fundamental knowledge DSA, OOPs, CN, OS etc. His expertise extends beyond just technical proficiency. He has a deep understanding of the importance of creating solutions that meet the needs of both users and stakeholders. This has allowed him to consistently deliver innovative and effective software solutions that drive positive outcomes for the clients. In addition to his technical skills, He is also a committed mentor who enjoys sharing knowledge and experience with others. Through his work in EdTech, He has trained numerous students and has been thrilled to see their exceptional progress and success. Whether it's through one-on-one mentorship, leading technical workshops, or contributing to open-source projects, He is dedicated to helping others reach their full potential." 
+        "name":"Mr. Mohd hasib",
+        "image":"images/mentor_webd.jpeg",
+        "label":"Senior AI Developer | Full Stack Engineer | Generative AI & Web Technologies | Technical Expert at Coding Thinker",
+        "details":"Mr. Mohd Hasib is a Senior AI Developer and Full Stack Engineer with over 5 years of experience specializing in Generative AI, LLMs, Agentic AI, RAG pipelines, and scalable web applications. Currently a Senior AI Consultant at Koenig Solutions, he has previously driven AI-driven and full-stack solutions at Ducat India and Shape My Skills. His core expertise bridges modern frameworks—including the MERN stack, Python, .NET, React, and Node.js—with advanced machine learning and cloud integrations to build enterprise-grade platforms, e-commerce solutions, and real-time systems." 
     },
     "1":{
-      "name": "Avinash Jha",
-      "image": "images/mentor_webd.jpg",
-      "label": "Technical Trainer at Coding Thinker",
-      "details": "Avinash Jha is currently working as a Software engineer at Nvidia and as a Technical Trainer at Coding Thinker. His past experience include, worked as a SDE1 Intern at Microsoft and as a Associate Software engineer at Juspay. He worked at few giant Edutech like, Scaler, Newton's School, Massai School, Physics Wallah and unacademy. Mentored over 1k + Final Year Students for placements. He has honed my skills and expertise in competitive programming, consistently achieving notable accomplishments across various platforms. He hold a 5-star rating on CodeChef and recognized as an expert on platforms like Codeforces and Codestudio."
+      "name": "Mr. Sahil Kumar",
+      "image": "images/mentor_webd1.jpg",
+      "label": "Software Engineer at Nebius | Codeforces Expert | NSUT Alumnus | Japan Industry Experience | Technical Expert at Coding Thinker",
+      "details": "Mr. Sahil Kumar is a software engineer at Nebius, an NSUT alumnus, and a Codeforces Expert who also brings valuable international industry experience from Japan. Associated with Coding Thinker, he leverages his deep expertise in Data Structures, Algorithms, and competitive programming to conduct practical, career-focused sessions designed to strengthen students' problem-solving skills and technical interview preparation."
     }
     
 }
