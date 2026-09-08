@@ -41,7 +41,7 @@ const LandingPage: React.FC = () => {
           <Button>
             <a
               className="btn btn_hover"
-              href="https://unstop.com/p/flair-haven-web-development-workshop-maulana-azad-national-institute-of-technology-manit-bhopal-1547739"
+              href="https://unstop.com/p/flair-haven-web-development-workshop-flair-haven--1751021"
               target="_blank"
             >
               Register Web Development
@@ -50,7 +50,7 @@ const LandingPage: React.FC = () => {
           <Button>
             <a
               className="btn btn_hover"
-              href="https://unstop.com/p/flair-haven-data-structures-algorithms-workshop-maulana-azad-national-institute-of-technology-manit-bhopal-1547947"
+              href="https://unstop.com/p/flair-haven-data-structures-algorithms-workshop-flair-haven--1751391"
               target="_blank"
             >
               Register DSA Workshop
@@ -59,7 +59,7 @@ const LandingPage: React.FC = () => {
           <Button>
             <a
               className="btn btn_hover"
-              href="https://unstop.com/p/flair-haven-workshops-web-development-dsa-maulana-azad-national-institute-of-technology-manit-bhopal-1547960"
+              href="https://unstop.com/p/flair-haven-workshops-web-development-dsa-flair-haven--1751398"
               target="_blank"
             >
               Register for both
